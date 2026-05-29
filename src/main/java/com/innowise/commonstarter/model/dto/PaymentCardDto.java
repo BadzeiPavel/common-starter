@@ -1,4 +1,4 @@
-package com.innowise.commonstarter.dto;
+package com.innowise.commonstarter.model.dto;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
