@@ -1,6 +1,6 @@
-package by.innowise.commonstarter.security;
+package com.innowise.commonstarter.security;
 
-import by.innowise.commonstarter.config.jwt.JwtSecrets;
+import com.innowise.commonstarter.config.jwt.JwtSecrets;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;

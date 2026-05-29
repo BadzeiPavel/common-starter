@@ -10,7 +10,7 @@
     <relativePath/>
   </parent>
 
-  <groupId>by.innowise</groupId>
+  <groupId>com.innowise</groupId>
   <artifactId>common-starter</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>common-starter</name>

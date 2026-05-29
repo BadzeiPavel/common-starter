@@ -1,4 +1,4 @@
-package com.innowise.common.model.dto.request;
+package com.innowise.commonstarter.dto.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

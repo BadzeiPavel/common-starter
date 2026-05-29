@@ -1,4 +1,4 @@
-package by.innowise.commonstarter.security;
+package com.innowise.commonstarter.security;
 
 import io.jsonwebtoken.Claims;
 import jakarta.servlet.FilterChain;

@@ -1,4 +1,4 @@
-package com.innowise.common.model.dto.response;
+package com.innowise.commonstarter.dto.response;
 
 import java.time.LocalDateTime;
 import lombok.Builder;

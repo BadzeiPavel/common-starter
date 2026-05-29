@@ -1,6 +1,6 @@
-package by.innowise.commonstarter.config.jwt;
+package com.innowise.commonstarter.config.jwt;
 
-import by.innowise.commonstarter.security.JwtTokenProvider;
+import com.innowise.commonstarter.security.JwtTokenProvider;
 import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;

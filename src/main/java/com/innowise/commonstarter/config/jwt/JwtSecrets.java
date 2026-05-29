@@ -1,4 +1,4 @@
-package by.innowise.commonstarter.config.jwt;
+package com.innowise.commonstarter.config.jwt;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
